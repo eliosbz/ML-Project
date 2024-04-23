@@ -1,4 +1,4 @@
-# Machine Learning Project 2022/23
+# Machine Learning project
 This repository contains the implementation of the final project of _Machine Learning_ course at Sapienza University of Rome, a.y. 2022/2023.
 
 ### **Abstract**
